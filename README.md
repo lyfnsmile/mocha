@@ -1,5 +1,16 @@
 # mocha
 
+### Usage
+
+- npm install
+- mocha
+
+#### coverage
+
+- Linux/Mac: istanbul cover _mocha 
+
+- Windows: istanbul cover node_modules/mocha/bin/_mocha
+
 
 ### 参考：
 
