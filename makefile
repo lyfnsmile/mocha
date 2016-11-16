@@ -1,5 +1,5 @@
 STANBUL=./node_modules/.bin/istanbul
-_MOCHA=./node_modules/.bin/_mocha
+_MOCHA=./node_modules/mocha/bin/_mocha
 MOCHA=./node_modules/mocha/bin/_mocha
 OPTS:=--recursive 
 test:
