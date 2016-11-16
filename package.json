@@ -12,5 +12,9 @@
     "chai": "^3.5.0",
     "mocha": "^3.1.2",
     "superagent": "^2.3.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.15",
+    "mocha-lcov-reporter": "^1.2.0"
   }
 }
