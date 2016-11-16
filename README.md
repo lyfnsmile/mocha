@@ -1,6 +1,6 @@
 # mocha
 
-[![https://travis-ci.org/lyfnsmile/mocha.svg?branch=master](https://travis-ci.org/lyfnsmile/mocha.svg?branch=master)]()
+[![Build Status](https://travis-ci.org/lyfnsmile/mocha.svg?branch=master)](https://travis-ci.org/lyfnsmile/mocha)
 [![Codecov branch](https://img.shields.io/codecov/c/github/codecov/example-python/master.svg)]()
 
 ### Usage
