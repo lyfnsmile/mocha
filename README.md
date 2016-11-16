@@ -1,9 +1,14 @@
 # mocha
 
+[![https://travis-ci.org/lyfnsmile/mocha.svg?branch=master](https://travis-ci.org/lyfnsmile/mocha.svg?branch=master)]()
+[![Codecov branch](https://img.shields.io/codecov/c/github/codecov/example-python/master.svg)]()
+
 ### Usage
 
 - npm install
 - mocha
+
+
 
 #### coverage
 
